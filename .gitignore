@@ -1,0 +1,20 @@
+# Raw Kaggle dataset & archives (terlalu besar untuk repo Git; sudah diekstrak ke artifacts/)
+store-sales-time-series-forecasting-20261114T114828Z-1-001/
+*.zip
+*.figcraft
+design/exports/
+design/_build_script.json
+
+# Python & IDE
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Vercel local
+.vercel/
+.env
+.env.local

@@ -1,0 +1,9 @@
+store-sales-time-series-forecasting-20261114T114828Z-1-001/
+design/
+scripts/
+*.ipynb
+*.zip
+.git/
+.venv/
+__pycache__/
+.vercel/
